@@ -1,13 +1,13 @@
 # Grafos1_GradeUnB
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
 | 25/1005945  |  Atyrson Souto da Silva |
-| 22/2037737  |  Matheus de Siqueira Brant |
+| 21/1063111  |  Gustavo Alves de Souza |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
