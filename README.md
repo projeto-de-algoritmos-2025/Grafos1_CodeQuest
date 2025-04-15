@@ -6,7 +6,7 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 22/2031045  |  Caio Magalhães Lamego |
+| 25/1005945  |  Atyrson Souto da Silva |
 | 22/2037737  |  Matheus de Siqueira Brant |
 
 ## Sobre 
