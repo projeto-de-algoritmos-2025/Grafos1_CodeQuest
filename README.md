@@ -1,4 +1,4 @@
-# Grafos1_GradeUnB
+# Grafos1_CodeQuest
 
 **Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Grafos 1<br>
