@@ -108,12 +108,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/sum-of-distances-in-tree/">834. Sum of Distances in Tree</a></td>
       <td><a href="./834.py">834.py</a></td>
-      <td><a href="https://link-do-video.com/834">Link</a></td>
+      <td><a href="https://unbbr.sharepoint.com/sites/Gravaes790/_layouts/15/stream.aspx?id=%2Fsites%2FGravaes790%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20250418%5F180508%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed4caa8b9%2D0d51%2D4c7f%2D99ed%2Dba33dd6f6912">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/">847. Shortest Path Visiting All Nodes</a></td>
       <td><a href="./847.py">847.py</a></td>
-      <td><a href="https://link-do-video.com/847">Link</a></td>
+      <td><a href="https://unbbr.sharepoint.com/sites/Gravaes790/_layouts/15/stream.aspx?id=%2Fsites%2FGravaes790%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20250418%5F180508%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed4caa8b9%2D0d51%2D4c7f%2D99ed%2Dba33dd6f6912">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -148,7 +148,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">102. Binary Tree Level Order Traversal</a></td>
       <td><a href="./102.py">102.py</a></td>
-      <td><a href="https://link-do-video.com/102">Link</a></td>
+      <td><a href="https://unbbr.sharepoint.com/sites/Gravaes790/_layouts/15/stream.aspx?id=%2Fsites%2FGravaes790%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20250418%5F180508%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed4caa8b9%2D0d51%2D4c7f%2D99ed%2Dba33dd6f6912">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -163,14 +163,17 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 
 ---
 
-## Instalação
+## Como usar o código no LeetCode
 
-**Linguagem**: Python e C++  
-**Pré-requisitos**: Ter Python 3 ou compilador C++ instalado.
+Este código foi desenvolvido para ser executado diretamente no **LeetCode**.
 
-```bash
-# Para executar os arquivos Python:
-python3 nome_do_arquivo.py
+### Passos para usar:
 
-# Para compilar e executar os arquivos C++:
-g++ nome_do_arquivo.cpp -o exec && ./exec
+1. **Copie o código** do arquivo.
+2. **Cole o código no editor do LeetCode**.
+3. **Submeta o código**. O LeetCode fornecerá as entradas automaticamente durante a execução.
+4. **O LeetCode executará o código** com as entradas fornecidas e devolverá a resposta.
+
+### Detalhes adicionais:
+
+- O LeetCode gerencia as **entradas e saídas automaticamente**.
