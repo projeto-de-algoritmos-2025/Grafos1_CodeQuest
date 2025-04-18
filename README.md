@@ -108,12 +108,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/sum-of-distances-in-tree/">834. Sum of Distances in Tree</a></td>
       <td><a href="./834.py">834.py</a></td>
-      <td><a href="https://unbbr.sharepoint.com/sites/Gravaes790/_layouts/15/stream.aspx?id=%2Fsites%2FGravaes790%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20250418%5F180508%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed4caa8b9%2D0d51%2D4c7f%2D99ed%2Dba33dd6f6912">Link</a></td>
+      <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/shortest-path-visiting-all-nodes/">847. Shortest Path Visiting All Nodes</a></td>
       <td><a href="./847.py">847.py</a></td>
-      <td><a href="https://unbbr.sharepoint.com/sites/Gravaes790/_layouts/15/stream.aspx?id=%2Fsites%2FGravaes790%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20250418%5F180508%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed4caa8b9%2D0d51%2D4c7f%2D99ed%2Dba33dd6f6912">Link</a></td>
+      <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -148,7 +148,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">102. Binary Tree Level Order Traversal</a></td>
       <td><a href="./102.py">102.py</a></td>
-      <td><a href="https://unbbr.sharepoint.com/sites/Gravaes790/_layouts/15/stream.aspx?id=%2Fsites%2FGravaes790%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20%5FGeneral%5F%2D20250418%5F180508%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed4caa8b9%2D0d51%2D4c7f%2D99ed%2Dba33dd6f6912">Link</a></td>
+      <td><a href="https://youtu.be/XC3G_0KR_h4">Link</a></td>
     </tr>
   </tbody>
 </table>
