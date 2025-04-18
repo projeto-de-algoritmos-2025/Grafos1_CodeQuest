@@ -10,7 +10,10 @@
 | 21/1063111  |  [Gustavo Alves de Souza](https://github.com/gustaallves) |
 
 ## Sobre 
-Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos e reúne a resolução de diversos exercícios do [Leetcode](https://leetcode.com/problemset/) envolvendo estruturas de dados e técnicas de algoritmos, como grafos, árvores, BFS e DFS. As questões foram divididas entre os integrantes do grupo, de forma que cada um resolveu 2 questões difíceis e 1 de nível médio.
+
+<p align="justify">
+Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos e reúne a resolução de diversos exercícios do <a href="https://leetcode.com/problemset/">Leetcode</a> envolvendo estruturas de dados e técnicas de algoritmos, como grafos, árvores, BFS e DFS. As questões foram divididas entre os integrantes do grupo, de forma que cada um resolveu 2 questões difíceis e 1 de nível médio.
+</p>
 
 ## Screenshots
 
