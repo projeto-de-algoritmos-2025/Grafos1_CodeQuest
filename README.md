@@ -40,8 +40,8 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 #### 🔴 Questões Difíceis
 
 - 🔴 [834. Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description/)  
-  🔗 [Vídeo Explicativo](https://link-do-video.com/shortest-path)
-  📸 ![](./screenshots/shortest_path.png)
+  🔗 [Vídeo Explicativo](https://link-do-video.com/level-order)  
+  📸 ![](./screenshots/level_order.png)
 
 - 🔴 [847. Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/)  
   🔗 [Vídeo Explicativo](https://link-do-video.com/sum-distances)  
