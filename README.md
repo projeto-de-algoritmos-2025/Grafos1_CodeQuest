@@ -88,7 +88,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   <p><strong>Imagem 3 - Resolução do exercício 133</strong></p>
 </div>
 
-![102](Screenshots/000.png)
+![102](Screenshots/133.png)
 ---
 
 ### 👤 [Gustavo Alves de Souza](https://github.com/gustaallves)
