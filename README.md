@@ -36,12 +36,12 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
     <tr>
       <td><a href="https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/">1028. Recover a Tree From Preorder Traversal</a></td>
       <td><a href="./1028.cpp">1028.cpp</a></td>
-      <td><a href="https://link-do-video.com/1028">Link</a></td>
+      <td><a href="https://youtu.be/6uUC_Sk6jh0">Link</a></td>
     </tr>
     <tr>
       <td><a href="https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/">2290. Minimum Obstacle Removal to Reach Corner</a></td>
       <td><a href="./2290.cpp">2290.cpp</a></td>
-      <td><a href="https://link-do-video.com/2290">Link</a></td>
+      <td><a href="https://youtu.be/Y2U1tcmTbOM">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -74,9 +74,10 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">000. Nome da Questão</a></td>
-      <td><a href="./000.cpp">000.cpp</a></td>
-      <td><a href="https://link-do-video.com/102">Link</a></td>
+      <td><a href="https://leetcode.com/problems/clone-graph/">133. Clone Graph
+</a></td>
+      <td><a href="./133.cpp">133.cpp</a></td>
+      <td><a href="https://youtu.be/hjWit20eztI">Link</a></td>
     </tr>
   </tbody>
 </table>
@@ -84,7 +85,7 @@ Este projeto foi desenvolvido como parte da disciplina de Projeto de Algoritmos 
 </div>
 
 <div align="center">
-  <p><strong>Imagem 3 - Resolução do exercício 102</strong></p>
+  <p><strong>Imagem 3 - Resolução do exercício 133</strong></p>
 </div>
 
 ![102](Screenshots/000.png)
